@@ -59,5 +59,5 @@ st.date_input('Date input')
 st.time_input('Time entry')
 st.file_uploader('File uploader')
 st.download_button('On the dl', data)
-st.camera_input("一二三,茄子!")
+
 st.color_picker('Pick a color')
