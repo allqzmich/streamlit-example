@@ -46,7 +46,12 @@ with st.echo(code_location='below'):
 """
 st.button('Hit me')
 # st.data_editor('Edit data', data)
+st.image('./1.png')
 st.checkbox('Check me out')
+st.image('./2.png')
+st.checkbox('Check me out2')
+st.image('./3.png')
+st.checkbox('Check me out3')
 st.radio('Pick one:', ['nose','ear'])
 st.selectbox('Select', [1,2,3])
 st.multiselect('Multiselect', [1,2,3])
